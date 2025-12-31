@@ -35,10 +35,10 @@ async function run() {
 
     // Retrive all users
     // const users = await prisma.user.findMany({
-        // include: {
-        //     posts: true,
-        //     profiles: true
-        // }
+    //     include: {
+    //         posts: true,
+    //         profiles: true
+    //     }
     //     select: {
     //         id: true,
     //         name: true,
